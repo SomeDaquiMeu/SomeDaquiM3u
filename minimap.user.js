@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         yOriowm Minimap
+// @name         SomeDaquiMeu Minimap
 // @namespace    http://tampermonkey.net/
 // @version      2.0
-// @description  yOriowm Minimap
-// @author       yOriowm#1046
+// @description  SomeDaquiMeu Minimap
+// @author       SomeDaquiMeu#7777
 // @match        https://pixelzone.io/*
 // @match        http://pixelzone.io/*
 // @homepage     https://github.com/yOriowm/ODNMinimap/
