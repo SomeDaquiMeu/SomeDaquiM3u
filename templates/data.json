@@ -33,5 +33,12 @@
     "y": 2079,
     "width": 46,
     "height": 78
+         },
+  "seila": {
+    "name": "seila.png",
+    "x": 89,
+    "y": 3679,
+    "width": 800,
+    "height": 800
    }
 }
