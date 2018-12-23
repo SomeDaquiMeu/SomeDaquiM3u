@@ -10,7 +10,21 @@
     "name": "TRIO2.png",
     "x": 2571,
     "y": 2002,
-    "width": 102,
-    "height": 106
+    "width": 426,
+    "height": 311
+     },
+  "gremio1": {
+    "name": "gremio1.png",
+    "x": -3192,
+    "y": -3689,
+    "width": 426,
+    "height": 311
+     },
+  "gremio2": {
+    "name": "gremio2.png",
+    "x": -3800,
+    "y": -3550,
+    "width": 427,
+    "height": 427
    }
 }
