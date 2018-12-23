@@ -1,16 +1,16 @@
 {
-  "Orion_Avatar": {
-    "name": "avatardiscord_zone.png",
-    "x": 1869,
-    "y": 2648,
-    "width": 75,
-    "height": 75
+  "TRIO": {
+    "name": "TRIO.png",
+    "x": 0,
+    "y": 0,
+    "width": 81,
+    "height": 32
    },
-  "CorinthiansMain2": {
-    "name": "CorinthiansMain2.png",
-    "x": -3686,
-    "y": 128,
-    "width": 272,
-    "height": 76
+  "TRIO2": {
+    "name": "TRIO2.png",
+    "x": 2571,
+    "y": 2002,
+    "width": 102,
+    "height": 106
    }
 }
