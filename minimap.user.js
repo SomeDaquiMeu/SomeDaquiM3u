@@ -4,8 +4,8 @@
 // @version      2.0
 // @description  SomeDaquiMeu Minimap
 // @author       SomeDaquiMeu#7777
-// @match        https://pixelzone.io/*
-// @match        http://pixelzone.io/*
+// @match        http://pixelplace.fun/*
+// @match        http://pixelplace.fun/*
 // @homepage     https://github.com/yOriowm/ODNMinimap/
 // @updateURL    https://raw.githubusercontent.com/SomeDaquiMeu/SomeDaquiM3u/master/minimap.user.js
 // @downloadURL  https://raw.githubusercontent.com/SomeDaquiMeu/SomeDaquiM3u/master/minimap.user.js
