@@ -13,32 +13,5 @@
     "width": 426,
     "height": 311
      },
-  "gremio1": {
-    "name": "gremio1.png",
-    "x": -3192,
-    "y": -3690,
-    "width": 426,
-    "height": 311
-     },
-  "gremio2": {
-    "name": "gremio2.png",
-    "x": -3800,
-    "y": -3550,
-    "width": 604,
-    "height": 604
-       },
-  "jdg": {
-    "name": "jdg.png",
-    "x": 2704,
-    "y": 2079,
-    "width": 46,
-    "height": 78
-         },
-  "seila": {
-    "name": "seila.png",
-    "x": 89,
-    "y": 3679,
-    "width": 800,
-    "height": 800
    }
 }
