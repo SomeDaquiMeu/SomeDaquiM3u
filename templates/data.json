@@ -1,17 +1,17 @@
 {
-  "TRIO": {
-    "name": "TRIO.png",
-    "x": 0,
-    "y": 0,
-    "width": 81,
-    "height": 32
+  "trio1": {
+    "name": "trio1.png",
+    "x": -3317,
+    "y": -4972,
+    "width": 259,
+    "height": 195
    },
-  "TRIO2": {
-    "name": "TRIO2.png",
-    "x": 2571,
-    "y": 2002,
-    "width": 426,
-    "height": 311
+  "1": {
+    "name": "1.png",
+    "x": 1,
+    "y": 1,
+    "width": 1,
+    "height": 1
      },
    }
 }
