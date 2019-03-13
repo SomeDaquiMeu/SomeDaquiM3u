@@ -4,8 +4,8 @@
 // @version      2.0
 // @description  SomeDaquiMeu Minimap
 // @author       SomeDaquiMeu#7777
-// @match        http://pixelplace.fun/*
-// @match        http://pixelplace.fun/*
+// @match        http://pixelzone.io/*
+// @match        http://pixelzone.io/*
 // @homepage     https://github.com/yOriowm/ODNMinimap/
 // @updateURL    https://raw.githubusercontent.com/SomeDaquiMeu/SomeDaquiM3u/master/minimap.user.js
 // @downloadURL  https://raw.githubusercontent.com/SomeDaquiMeu/SomeDaquiM3u/master/minimap.user.js
@@ -374,6 +374,7 @@ function drawCursor() {
     ctx_minimap_cursor.beginPath();
     ctx_minimap_cursor.lineWidth = zoomlevel / 3;
     ctx_minimap_cursor.strokeStyle = "red";
+  
     ctx_minimap_cursor.rect(zoomlevel * xoff_c, zoomlevel * yoff_c, zoomlevel, zoomlevel);
     ctx_minimap_cursor.stroke();
 
