@@ -6,7 +6,7 @@
 // @author       SomeDaquiMeu#7777
 // @match        https://pixelzone.io/*
 // @match        http://pixelzone.io/*
-// @homepage     https://github.com/xDied/ODNMinimap/
+// @homepage     https://github.com/SomeDaquiMeu/SomeDaquiM3u/
 // @updateURL    https://raw.githubusercontent.com/SomeDaquiMeu/SomeDaquiM3u/master/minimap.user.js
 // @downloadURL  https://raw.githubusercontent.com/SomeDaquiMeu/SomeDaquiM3u/master/minimap.user.js
 // @grant        none
