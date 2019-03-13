@@ -1,12 +1,12 @@
 // ==UserScript==
-// @name         SomeDaquiMeu Minimap
+// @name         ODNZone Minimap
 // @namespace    http://tampermonkey.net/
-// @version      2.0
+// @version      3.0
 // @description  SomeDaquiMeu Minimap
 // @author       SomeDaquiMeu#7777
+// @match        https://pixelzone.io/*
 // @match        http://pixelzone.io/*
-// @match        http://pixelzone.io/*
-// @homepage     https://github.com/yOriowm/ODNMinimap/
+// @homepage     https://github.com/xDied/ODNMinimap/
 // @updateURL    https://raw.githubusercontent.com/SomeDaquiMeu/SomeDaquiM3u/master/minimap.user.js
 // @downloadURL  https://raw.githubusercontent.com/SomeDaquiMeu/SomeDaquiM3u/master/minimap.user.js
 // @grant        none
@@ -55,7 +55,7 @@ window.addEventListener('load', function () {
     var div = document.createElement('div');
     div.setAttribute('class', 'post block bc2');
     div.innerHTML = '<div id="minimapbg" style="position: absolute; right: 1em; bottom: 1em;">' +
-        '<div class="posy" id="posyt" style="background-size: 97%; background-image: url(https://imgur.com/SHRlegl); color: rgb(250, 250, 250); text-align: center; line-height: 42px; vertical-align: middle; width: auto; height: auto; border-radius: 21px; padding: 6px;">' +
+        '<div class="posy" id="posyt" style="background-size: 97%; background-image: url(https://cdn.pbrd.co/images/HqZKYUY.png); color: rgb(250, 250, 250); text-align: center; line-height: 42px; vertical-align: middle; width: auto; height: auto; border-radius: 21px; padding: 6px;">' +
         '<div id="minimap-text" style="display: none;"></div>' +
         '<div id="minimap-box" style="position: relative;width:420px;height:300px">' +
         '<canvas id="minimap" style="width: 100%; height: 100%;z-index:1;position:absolute;top:0;left:0;"></canvas>' +
@@ -374,7 +374,6 @@ function drawCursor() {
     ctx_minimap_cursor.beginPath();
     ctx_minimap_cursor.lineWidth = zoomlevel / 3;
     ctx_minimap_cursor.strokeStyle = "red";
-  
     ctx_minimap_cursor.rect(zoomlevel * xoff_c, zoomlevel * yoff_c, zoomlevel, zoomlevel);
     ctx_minimap_cursor.stroke();
 
