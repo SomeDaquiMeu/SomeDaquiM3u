@@ -1,12 +1,12 @@
 // ==UserScript==
-// @name         SomeDaquiMeu Minimap
+// @name         Minimapa argentino pixelzone
 // @namespace    http://tampermonkey.net/
-// @version      2.0
-// @description  SomeDaquiMeu Minimap
-// @author       SomeDaquiMeu#7777
+// @version      1.2.0
+// @description  Minimapa para pixelzone.io
+// @author       ....
+// @match        https://pixelzone.io/*
 // @match        http://pixelzone.io/*
-// @match        http://pixelzone.io/*
-// @homepage     https://github.com/yOriowm/ODNMinimap/
+// @homepage     https://github.com/SomeDaquiMeu/SomeDaquiM3u/
 // @updateURL    https://raw.githubusercontent.com/SomeDaquiMeu/SomeDaquiM3u/master/minimap.user.js
 // @downloadURL  https://raw.githubusercontent.com/SomeDaquiMeu/SomeDaquiM3u/master/minimap.user.js
 // @grant        none
